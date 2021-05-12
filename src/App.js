@@ -1,4 +1,3 @@
-import logo from './images/favicon-32x32.png'
 import './App.css';
 
 function App() {
